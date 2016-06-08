@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:49.684573
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:04
 #+TITLE: 觀經
 #+PROPERTY: CBETA_ID T85n2914
 #+PROPERTY: ID KR6u0050
